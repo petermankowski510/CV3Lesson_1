@@ -1,3 +1,6 @@
+# Intial Clone
+# 27/10/2019
+
 import numpy as np
 import cv2
 cap = cv2.VideoCapture(0)
